@@ -1,0 +1,22 @@
+.bottom-panel {
+  margin-top: 20px;
+}
+
+.bottom-panel .new-post-label {
+  width: auto;
+  flex-grow: 1;
+  margin-right: 3px;
+}
+.form-control input {
+  padding-top: 5px;
+  font-size: 22px;
+}
+.form-control {
+  background: transparent !important;
+}
+
+.error input {
+  color: rgb(139, 13, 13) !important;
+  font-weight: bolder;
+  font-size: 22px;
+}
